@@ -1,5 +1,5 @@
 git clone https://github.com/TsingXiI/xiaowentian.github.io
-cd xiaowentian. github.io
+cd xiaowentian.github.io
 echo "test" > index.html
 git add --all
 git commit -m "Initial commit"
