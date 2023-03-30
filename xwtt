@@ -1,5 +1,5 @@
 git clone https://github.com/TsingXiI/xiaowentian.github.io
-cd username. github.1o
+cd xiaowentian. github.io
 echo "test" > index.html
 git add --all
 git commit -m "Initial commit"
