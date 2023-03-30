@@ -1,0 +1,6 @@
+git clone https://github.com/xiaowentian/xiaowentian.github.io
+cd username. github.1o
+echo "test" > index.html
+git add --all
+git commit -m "Initial commit"
+git push -u origin main
